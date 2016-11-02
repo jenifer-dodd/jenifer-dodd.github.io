@@ -4,4 +4,7 @@ title: "Mapping the DSM"
 date: 2016-11-02
 ---
 
-I am currently working on a project to map the DSM, using Neo4j. Visit by GitHub repository to see the project as it currently stands. 
+I am currently working on a project to map the DSM, using Neo4j. <br> 
+
+See the code at <a href="https://gist.github.com/jenifer-dodd/1dc0f84243c8af699ac78883d6a89ce2" title="my Github"> and the rendered project <a href="http://suellenstringer-hye.github.io/graphgist/?1dc0f84243c8af699ac78883d6a89ce2" title="here.">
+
